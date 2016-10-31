@@ -1,4 +1,4 @@
-# Cloud-Data-Center
+# Cloud-Architecture
 #Introduction
 This project is regarding automated deployement of  Cloud Data Center
 along with web based user interface to use the Cloud Services. It is
