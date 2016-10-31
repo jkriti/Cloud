@@ -2,7 +2,7 @@
 #Introduction
 This project is regarding automated deployement of  Cloud Data Center
 along with web based user interface to use the Cloud Services. It is
-developed using Python CGI over Redhat Enterprise Linux 6. This project
+developed using Python CGI over Redhat Enterprise Linux 7.2. This project
 is consists of three main modules : 
 <br>
 1. Infrastructure as a service (IaaS) : Using this module user can
